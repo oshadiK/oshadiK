@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Front-End+Web+Developer;UI%2FUX+Design+Enthusiast;Always+Learning+New+Technologies" />
 
 <img src="https://komarev.com/ghpvc/?username=oshadiK&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-
+</div>
 
 ---
 
