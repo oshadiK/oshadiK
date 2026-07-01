@@ -31,7 +31,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/oshadiK" target="blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
