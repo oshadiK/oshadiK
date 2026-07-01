@@ -38,10 +38,15 @@
 
 # 💻 Tech Stack
 
-<p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,git,github,vscode,react,nodejs" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,git,github,vscode"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 </p>
 
 ---
