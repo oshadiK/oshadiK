@@ -14,7 +14,7 @@
 - 🌱 Currently learning **React.js, Node.js**
 - 💻 Interested in **Frontend Development**
 - 🚀 Love building responsive websites
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **oshadikavishka1@gmail.com**
 
 ---
 
